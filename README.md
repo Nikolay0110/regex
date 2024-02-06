@@ -1,3 +1,7 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/h4ybqvgj2f8htlvk/branch/main?svg=true)](https://ci.appveyor.com/project/Nikolay0110/regex/branch/main)
+
+
+
 # Домашнее задание к лекции «Регулярные выражения»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
